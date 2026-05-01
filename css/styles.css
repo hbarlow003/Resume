@@ -10804,3 +10804,14 @@ header.masthead .post-heading .meta a {
     max-width: 300px; /* Optional: Limit the maximum width */
     margin:0 auto; 
 }
+.leButton{
+  background:    #ffffff;
+  border:        4px solid #000000;
+  border-radius: 1000px;
+  box-shadow:    0 10px #444444;
+  padding:       19px 14px;
+  color:         #000000;
+  display:       inline-block;
+  font:          normal normal 26px/1 inherit;
+  text-align:    center;
+}
