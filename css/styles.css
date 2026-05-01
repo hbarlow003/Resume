@@ -10799,7 +10799,7 @@ header.masthead .post-heading .meta a {
 .image {
     position: relative;
     display:flex;
-    justify-content: right;
+    justify-content: center;
     width: 100%; /* Full width of the parent container */
     max-width: 300px; /* Optional: Limit the maximum width */
     margin:0 auto; 
