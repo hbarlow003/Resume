@@ -10796,3 +10796,11 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+.image {
+    position: relative;
+    display:flex;
+    justify-content: right;
+    width: 100%; /* Full width of the parent container */
+    max-width: 300px; /* Optional: Limit the maximum width */
+    margin:0 auto; 
+}
